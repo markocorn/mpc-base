@@ -1,0 +1,13 @@
+{
+  "WeatherForecast": {
+    "url": "https://api.open-meteo.com/v1/forecast",
+    "location": {
+      "latitude": 46.1293,
+      "longitude": 14.4908
+    }
+  },
+  "db": {
+    "host": "68.183.209.197:27017",
+    "name": "data"
+  }
+}
